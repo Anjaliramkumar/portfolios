@@ -1,0 +1,23 @@
+/* HOME */
+#HOME{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+/* ABOUT ME */
+#intro h2{
+    font-size: 1.5rem;
+    width: 10%;
+}
+
+/* CONTACT */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
